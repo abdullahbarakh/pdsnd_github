@@ -12,7 +12,7 @@ This project analyzes bikeshare data from three US cities to explore travel patt
 - chicago.csv
 - new_york_city.csv
 - washington.csv
-- README.md
+- README.md.
 
 ### Credits
 The project is based on Udacity’s PDSND course materials and resources.
